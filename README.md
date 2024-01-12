@@ -1,1 +1,1 @@
-# mdn-fund-lay-com
+Fundamental Layout Comprehension assignment.
